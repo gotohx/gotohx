@@ -1,4 +1,4 @@
-### 惟愿不辜负自己
+### show my code
 
 <!--
 **gotohx/gotohx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
